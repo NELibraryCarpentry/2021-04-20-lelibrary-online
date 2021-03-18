@@ -354,7 +354,7 @@ of code below the Schedule `<h2>` header below with
 {% elsif site.carpentry == "dc" %}
 {% include dc/schedule.html %}
 {% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
+{% include custom-schedule.html %}
 {% endif %}
 
 <hr/>
