@@ -81,7 +81,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="https://www.eventbrite.com/e/data-software-workshop-for-public-librarians-tickets-145327114311"
   frameborder="0"
   width="100%"
   height="280px"
@@ -268,7 +268,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to New Hampshire public librarians.
 </p>
 {% endcomment %}
 
